@@ -1,0 +1,11 @@
+{
+    "primary_color": "0x70CCFF",
+    "error_color": "0xCC1F36",
+    "prefix": "--",
+    "commands": {
+        "notify": {
+            "function": "notify",
+            "args": ["collection", "floor_price"]
+        }
+    }
+}
